@@ -1,6 +1,6 @@
-let grupo3 = "Luccas"
+let nome = "Luccas"
 
-console.log (grupo3)
+console.log (nome)
 
 let quantidade = 5;
 let anoAtual = 2022;
